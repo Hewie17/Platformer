@@ -7,10 +7,10 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 63,
-    "bbox_left": 3,
-    "bbox_right": 45,
-    "bbox_top": 12,
-    "bboxmode": 0,
+    "bbox_left": 4,
+    "bbox_right": 42,
+    "bbox_top": 4,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
@@ -98,8 +98,8 @@
             "visible": true
         }
     ],
-    "origin": 4,
-    "originLocked": false,
+    "origin": 9,
+    "originLocked": true,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
@@ -110,5 +110,5 @@
     "type": 0,
     "width": 48,
     "xorig": 24,
-    "yorig": 32
+    "yorig": 64
 }

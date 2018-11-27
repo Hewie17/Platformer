@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "9420def2-aed7-472a-8e15-7ed669c7fce9",
+            "Value": {
+                "id": "84dafff7-5eec-478d-a2b3-41268bf9a544",
+                "resourcePath": "sprites\\sSnake_die\\sSnake_die.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95163975-67c0-4c59-903e-a9204757fecd",
             "Value": {
                 "id": "b4734046-a44b-4d35-8d65-ce59c6f9bd61",
