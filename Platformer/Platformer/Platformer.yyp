@@ -167,6 +167,22 @@
             }
         },
         {
+            "Key": "6fc2c639-bd97-4ebe-af55-553a9b9b477a",
+            "Value": {
+                "id": "26ac698b-fdeb-4a97-afcd-985e2f08b460",
+                "resourcePath": "objects\\oBlocks\\oBlocks.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "752b6e1e-5a53-474b-b0ec-04a4d06a0b77",
+            "Value": {
+                "id": "6132acf1-a6e4-47c4-a27f-2a2d32cd6312",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "77e7b9c4-619e-464e-af78-8866e9c05f25",
             "Value": {
                 "id": "a6363670-8046-4e9c-bf7b-5968aed031a9",
