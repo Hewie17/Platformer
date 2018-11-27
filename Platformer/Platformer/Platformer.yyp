@@ -47,11 +47,35 @@
             }
         },
         {
+            "Key": "1618cadb-6d76-4d30-9254-82d1fc24e041",
+            "Value": {
+                "id": "9f30a330-7e5d-4608-8b53-1d29875ce063",
+                "resourcePath": "sprites\\sSnake\\sSnake.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "322339f9-b3f6-493e-be14-680cf8ae9a6e",
             "Value": {
                 "id": "a25b0091-d38d-49df-8cce-50f5e90acc9d",
                 "resourcePath": "views\\322339f9-b3f6-493e-be14-680cf8ae9a6e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36406d52-10a3-4819-a41c-3c09e4f71643",
+            "Value": {
+                "id": "543ce2d6-97a5-44ad-b882-1b15fceafb5f",
+                "resourcePath": "sprites\\sBlocks\\sBlocks.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "38cfbafe-323a-4f83-a5e8-ff168014b112",
+            "Value": {
+                "id": "3d3acfee-60ef-4b12-939e-6d38b13dc411",
+                "resourcePath": "sprites\\sDeath\\sDeath.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "04f98a24-f73d-415d-b9c5-f033e100f35b",
                 "resourcePath": "views\\6c29b4a4-d6db-4cc6-8fe5-319bdccc4342.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "77e7b9c4-619e-464e-af78-8866e9c05f25",
+            "Value": {
+                "id": "a6363670-8046-4e9c-bf7b-5968aed031a9",
+                "resourcePath": "sprites\\sFloor\\sFloor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +292,14 @@
                 "id": "84ed28f9-e190-4b72-b513-3dec50997a59",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ed06455d-8c29-4e48-be5a-bfe96d1823c4",
+            "Value": {
+                "id": "12240892-b905-4b4e-8bbe-04b098d4865e",
+                "resourcePath": "sprites\\sLadder\\sLadder.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
