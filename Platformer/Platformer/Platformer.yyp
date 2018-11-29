@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "dc76785c-9146-4c97-b472-9ce554a40182",
+            "Value": {
+                "id": "cf22cf68-7f38-4ae3-8730-297975a0e9d3",
+                "resourcePath": "objects\\oFloor\\oFloor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de361470-c270-405a-9e40-143958b7bf44",
             "Value": {
                 "id": "ae1630be-4a08-4a2f-8494-b88c9e3bb331",
