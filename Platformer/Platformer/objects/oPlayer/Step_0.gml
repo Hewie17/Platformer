@@ -22,3 +22,16 @@ if ((l01FD7830_0 > 0))
 	/// @DnDArgument : "force" "0"
 	gravity = 0;
 }
+
+/// @DnDAction : YoYo Games.Collisions.If_Object_At
+/// @DnDVersion : 1.1
+/// @DnDHash : 314CE237
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "object" "oLadder"
+/// @DnDSaveInfo : "object" "6c2b23c0-63f9-4130-89cf-3149e1797aaa"
+var l314CE237_0 = instance_place(x + 0, y + 0, oLadder);
+if ((l314CE237_0 > 0))
+{
+
+}

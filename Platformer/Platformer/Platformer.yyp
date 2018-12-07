@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "6c2b23c0-63f9-4130-89cf-3149e1797aaa",
+            "Value": {
+                "id": "da72e49a-fd6d-4d63-a66b-132a8499ef65",
+                "resourcePath": "objects\\oLadder\\oLadder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fc2c639-bd97-4ebe-af55-553a9b9b477a",
             "Value": {
                 "id": "26ac698b-fdeb-4a97-afcd-985e2f08b460",
@@ -340,6 +348,14 @@
                 "id": "d1ff48b7-b91a-4c59-9358-76220217ee87",
                 "resourcePath": "views\\f339db35-e471-4e7b-b7a2-915fc99449a2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f9ff9cfd-3e7a-4a4e-8bf2-29784c32a802",
+            "Value": {
+                "id": "009a349e-1b05-4370-b193-827cda992926",
+                "resourcePath": "objects\\oSnake\\oSnake.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
