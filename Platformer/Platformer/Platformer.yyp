@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "064e6a59-2fed-4a7c-a751-d0a50a3933f3",
+            "Value": {
+                "id": "9080cd6e-8a63-42a5-b36e-7ef0dad95c16",
+                "resourcePath": "views\\064e6a59-2fed-4a7c-a751-d0a50a3933f3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "11ea295a-f8ef-4171-9e36-774130cb7307",
             "Value": {
                 "id": "d3b17aee-4ba6-40ef-abf0-e46482c304fe",
@@ -52,6 +60,14 @@
                 "id": "9f30a330-7e5d-4608-8b53-1d29875ce063",
                 "resourcePath": "sprites\\sSnake\\sSnake.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31c05ff6-6094-4157-8add-4623df36eb27",
+            "Value": {
+                "id": "000da531-effd-45d6-a22a-a67e2b44c6a9",
+                "resourcePath": "objects\\oSnakeDie\\oSnakeDie.yy",
+                "resourceType": "GMObject"
             }
         },
         {
