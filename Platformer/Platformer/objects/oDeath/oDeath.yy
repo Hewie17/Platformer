@@ -1,8 +1,8 @@
 {
-    "id": "6c2b23c0-63f9-4130-89cf-3149e1797aaa",
+    "id": "431db5c0-a8fd-403d-94ab-e47e190c0117",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oLadder",
+    "name": "oDeath",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ed06455d-8c29-4e48-be5a-bfe96d1823c4",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }
