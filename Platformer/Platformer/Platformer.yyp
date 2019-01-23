@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "6d370797-d5b5-4906-acb1-b0c12dbb9e00",
+            "Value": {
+                "id": "46542f84-9d7e-4546-8ad0-227f281087fb",
+                "resourcePath": "objects\\oFood\\oFood.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fc2c639-bd97-4ebe-af55-553a9b9b477a",
             "Value": {
                 "id": "26ac698b-fdeb-4a97-afcd-985e2f08b460",
@@ -323,6 +331,14 @@
             "Value": {
                 "id": "39604014-c628-4915-ba1b-defe593538d9",
                 "resourcePath": "sprites\\sJump\\sJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c7b32bf8-2c02-4e63-af64-78fcf3fb8580",
+            "Value": {
+                "id": "49f72b24-0efc-4a08-9549-0eb8537ade0e",
+                "resourcePath": "sprites\\sPickups\\sPickups.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -1,6 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 40D95CCB
-/// @DnDArgument : "code" "x = view_xport[view_current] + 100;$(13_10)y = view_yport[view_current] + 50;$(13_10)"
-x = view_xport[view_current] + 100;
-y = view_yport[view_current] + 50;
+/// @DnDHash : 768777AB
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "player1_lives"
+/// @DnDArgument : "var_1" "player1_score"
+player1_lives = 3;
+player1_score = 0;

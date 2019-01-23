@@ -21,6 +21,15 @@ if(y + 10 < other.y)
 /// @DnDHash : 28153531
 else
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4D8E1024
+	/// @DnDParent : 28153531
+	/// @DnDArgument : "expr" "-1"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "oHUD.player1_lives"
+	oHUD.player1_lives += -1;
+
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 3D72C099
