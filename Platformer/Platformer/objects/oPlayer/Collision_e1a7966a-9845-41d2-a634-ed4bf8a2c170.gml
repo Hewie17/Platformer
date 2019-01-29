@@ -14,6 +14,15 @@ if(y + 10 < other.y)
 	/// @DnDArgument : "objind" "oSnakeDie"
 	/// @DnDSaveInfo : "objind" "31c05ff6-6094-4157-8add-4623df36eb27"
 	with(other) instance_change(oSnakeDie, true);
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4B2DA195
+	/// @DnDParent : 7B1C6830
+	/// @DnDArgument : "expr" "50"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "oHUD.player1_score"
+	oHUD.player1_score += 50;
 }
 
 /// @DnDAction : YoYo Games.Common.Else

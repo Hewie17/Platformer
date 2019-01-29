@@ -1,38 +1,28 @@
 {
-    "id": "9497df74-81a0-4d5e-b8e6-24e19cd698a7",
+    "id": "d6f5d977-f91e-44f1-b9f2-83a186131027",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDie",
+    "name": "oYes",
     "eventList": [
         {
-            "id": "d131d8af-a829-4a6c-9801-b430d20e0586",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "9497df74-81a0-4d5e-b8e6-24e19cd698a7"
-        },
-        {
-            "id": "b176f5e3-3f8b-4c27-ad88-a679719ecd42",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 7,
-            "m_owner": "9497df74-81a0-4d5e-b8e6-24e19cd698a7"
-        },
-        {
-            "id": "c0ef49b8-f117-4ed2-9b54-db51d70bf896",
+            "id": "f594c382-6466-47e2-9e3a-fde687c96059",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "9497df74-81a0-4d5e-b8e6-24e19cd698a7"
+            "m_owner": "d6f5d977-f91e-44f1-b9f2-83a186131027"
+        },
+        {
+            "id": "a2f7446e-eb7b-439b-bc15-e98a78084ae9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "752b6e1e-5a53-474b-b0ec-04a4d06a0b77",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "d6f5d977-f91e-44f1-b9f2-83a186131027"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5593b1f0-fb98-419a-8d80-bdea042eb10b",
+    "spriteId": "c7b32bf8-2c02-4e63-af64-78fcf3fb8580",
     "visible": true
 }

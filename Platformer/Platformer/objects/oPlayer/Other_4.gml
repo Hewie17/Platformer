@@ -2,6 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 310CF232
 /// @DnDArgument : "x" "95"
-/// @DnDArgument : "y" "600"
+/// @DnDArgument : "y" "400"
 x = 95;
-y = 600;
+y = 400;
